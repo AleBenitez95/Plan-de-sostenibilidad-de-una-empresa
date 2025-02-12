@@ -1,5 +1,7 @@
 # Propuestas y medición de acciones sostenibles
 
+![img5](img/img5.jpg)
+
 ### ¿Qué indicadores podrían usarse para evaluar la sostenibilidad de una empresa?
 
 1. La creación de empleo, sobre todo en grupos con necesidades especiales de acceso al mercado laboral.
