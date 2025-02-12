@@ -1,6 +1,6 @@
 # Referencias
 
-plan https://www.eurofins-environment.es/es/plan-de-sostenibilidad/#:~:text=El%20Plan%20de%20Sostenibilidad%20es,social%2C%20econ%C3%B3mico%20y%20ambiental).
+[Plan](https://www.eurofins-environment.es/es/plan-de-sostenibilidad/#:~:text=El%20Plan%20de%20Sostenibilidad%20es,social%2C%20econ%C3%B3mico%20y%20ambiental).)
 [Relación entre sostenibilidad, rentabilidad y reputación empresarial](https://www.linkedin.com/pulse/la-relaci%C3%B3n-entre-sostenibilidad-y-rentabilidad-en-el-mart%C3%ADn-lucena/)
 [Identificación de los principales grupos de interés de una empresa](https://www.delineandoestrategias.com.mx/blog-de/relevancia-grupos-de-interes-asg-empresas#:~:text=ante%20la%20incertidumbre-,Los%20grupos%20de%20inter%C3%A9s%2C%20tambi%C3%A9n%20llamados%20stakeholders%20o%20partes%20interesadas,sociedad%20en%20general%2C%20entre%20otros.)
 [¿Cómo influyen estos grupos en las decisiones de sostenibilidad de la empresa?](https://martagonzalez.dev/blog/el-impacto-de-los-stakeholders-en-la-sostenibilidad-corporativa-estrategias-para-la-colaboracion-efectiva/#:~:text=Al%20proporcionar%20a%20los%20stakeholders,implementaci%C3%B3n%20exitosa%20de%20iniciativas%20sostenibles.)
